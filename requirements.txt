@@ -1,0 +1,32 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# CKD-Insight: Explainable ML for Chronic Kidney Disease Prediction
+# BME6938 Medical AI · Project 1 · Group 6
+# requirements.txt
+# ══════════════════════════════════════════════════════════════════════════════
+
+# Core ML
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+shap>=0.50.0
+joblib>=1.3.0
+
+# Data handling
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.12.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# ARFF loading (Phase I)
+liac-arff>=2.5.0
+
+# Web application (Phase IV)
+flask>=3.0.0
+streamlit>=1.30.0
+requests>=2.31.0
+
+# Notebook profiling (optional, Phase I)
+# ydata-profiling>=4.6.0
