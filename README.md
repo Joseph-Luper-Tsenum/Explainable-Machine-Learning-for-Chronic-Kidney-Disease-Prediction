@@ -191,12 +191,11 @@ If you use this work, please cite:
 ```bibtex
 @misc{tsenum2025ckdinsight,
   title={CKD-Insight: Explainable Machine Learning for Chronic Kidney Disease Prediction},
-  author={Tsenum, Joseph Luper},
+  author={Tsenum, Joseph Luper and Bendure, Riley and Vutukuru, Gopal Viraj Koundinya V.},
   year={2025},
   institution={University of Florida},
   note={BME6938 Medical AI, Project 1}
 }
-```
 
 ## License
 
