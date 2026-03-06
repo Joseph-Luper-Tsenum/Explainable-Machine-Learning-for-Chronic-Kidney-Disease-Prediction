@@ -56,15 +56,16 @@ project/
 │   └── xgb_shap_values_train.npy
 │
 ├── data/
-│   └── ckd_cleaned.csv               # Cleaned dataset (18 features, 400 patients)
+│   └── ckd_cleaned.csv                # Cleaned dataset (18 features, 400 patients)
 │
 ├── figures/                           # All generated plots (SVG + PNG)
 │
 └── reports/
     ├── Project1_Group6_Report.pdf     # Final project report
+    ├── CDK_EDA_Report.docx            # Phase I report
     ├── CKD_Modeling_Report.docx       # Phase II report
-    ├── CKD_SHAP_Report.docx          # Phase III report
-    └── CKD_Insight_Report.docx       # Phase IV report
+    ├── CKD_SHAP_Report.docx           # Phase III report
+    └── CKD_Insight_Report.docx        # Phase IV report
 ```
 
 ## Dataset
