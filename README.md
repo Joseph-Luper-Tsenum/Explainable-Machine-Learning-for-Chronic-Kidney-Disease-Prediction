@@ -88,7 +88,7 @@ project/
 
 ```bash
 # Clone the repository
-[git clone https://github.com/<your-username>/ckd-insight.git](https://github.com/Joseph-Luper-Tsenum/ckd-insight.git)
+https://github.com/Joseph-Luper-Tsenum/ckd-insight.git
 cd ckd-insight
 
 # Install dependencies
