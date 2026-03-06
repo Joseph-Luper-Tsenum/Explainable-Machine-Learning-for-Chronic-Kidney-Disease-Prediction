@@ -62,6 +62,7 @@ project/
 │
 └── reports/
     ├── Project1_Group6_Report.pdf     # Final project report
+    ├── Project1_Group6_Report.docx    # Final project report
     ├── CDK_EDA_Report.docx            # Phase I report
     ├── CKD_Modeling_Report.docx       # Phase II report
     ├── CKD_SHAP_Report.docx           # Phase III report
