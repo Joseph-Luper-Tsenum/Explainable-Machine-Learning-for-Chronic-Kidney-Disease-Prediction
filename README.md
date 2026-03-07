@@ -212,7 +212,7 @@ If you use this work, please cite:
   note={BME6938 Medical AI, Project 1}
 }
 ```
-## Bibliography: 
+## References: 
 
 - E. M. Chouit, M. Rachdi, M. Bellafkih, and B. Raouyane, “Interpretable machine learning for chronic kidney disease prediction: Insights from SHAP and LIME analyses,” PLoS One, vol. 21, no. 2, Art. no. e0343205, Feb. 2026.
 
