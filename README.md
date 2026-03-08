@@ -186,6 +186,26 @@ Riley utilizes machine learning methods improving modulation of non-motor sympto
 M.S. Student in Biomedical Engineering, University of Florida.
 Gopal Viraj is a first‑year M.S. student in Biomedical Engineering at the University of Florida with a strong interest in biomaterials and regenerative medicine. He is open to pursuing both industry work and academic research in these areas in the future. His overall aim is to work in the healthcare industry to solve day‑to‑day diagnostic problems by applying the latest technologies in biomedical engineering.
 
+## Individual Contributions 
+
+Each team member contributed to the preparation of the written report and the development of the project deliverables. 
+
+1. **Joseph Luper Tsenum** – Responsible for writing the Abstract and coordinating the project, ensuring that the different components of the analysis were well integrated and consistent across all four phases of the work. 
+
+2. **Riley Bendure** – Responsible for writing the Introduction, providing background on chronic kidney disease (CKD) and motivating the importance of applying machine learning methods for early risk prediction. 
+
+3. **Gopal Viraj Koundinya Vutukuru** – Responsible for writing the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models. 
+
+## Collaboration 
+
+Throughout the four phases of the project, the team maintained a highly collaborative workflow, meeting regularly to discuss progress, make decisions, and coordinate tasks. As a group, we collectively selected the UCI Chronic Kidney Disease (CKD) dataset and worked together across all stages of the project, including exploratory data analysis (EDA), model development, evaluation, report preparation, and application development. 
+
+Most of the work was conducted during in-person meetings, where team members jointly reviewed analyses, implemented modeling approaches, and refined the outputs for each phase. The final notebooks and project artifacts were compiled collaboratively to ensure consistency and reproducibility across the entire pipeline. 
+
+Joseph was responsible for ensuring that the various components of the project—including data preprocessing, modeling outputs, explainability analyses, and the interactive application remained aligned and coherent across phases. At the same time, the collaborative contributions of the entire team made it possible to efficiently develop the README documentation and the “About” section of the application, as different sections written by team members were integrated into a unified narrative. 
+
+This project reflects the type of collaborative environment commonly encountered in real-world industry and research settings, where interdisciplinary teams contribute complementary expertise. Team members were able to work together productively, resolve challenges constructively, and learn from one another’s technical strengths and soft skills, resulting in a cohesive and well-executed final product. 
+
 ## Contact Us
 
 Joseph Luper Tsenum: josephtsenum@ufl.edu
@@ -212,6 +232,7 @@ If you use this work, please cite:
   note={BME6938 Medical AI, Project 1}
 }
 ```
+
 ## References: 
 
 - E. M. Chouit, M. Rachdi, M. Bellafkih, and B. Raouyane, “Interpretable machine learning for chronic kidney disease prediction: Insights from SHAP and LIME analyses,” PLoS One, vol. 21, no. 2, Art. no. e0343205, Feb. 2026.
