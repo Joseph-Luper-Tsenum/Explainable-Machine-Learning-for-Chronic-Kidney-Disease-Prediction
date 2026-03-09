@@ -1,5 +1,5 @@
 # ══════════════════════════════════════════════════════════════════════════════
-# CKD-Insight: Explainable ML for Chronic Kidney Disease Prediction
+# CKD-Insight: Explainable ML for Chronic Kidney Disease Prediction With SHAP
 # BME6938 Medical AI · Project 1 · Group 6
 # requirements.txt
 # ══════════════════════════════════════════════════════════════════════════════
