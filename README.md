@@ -171,6 +171,8 @@ Phase I: EDA                Phase II: Modeling           Phase III: SHAP        
 └──────────────┘           └──────────────────┘        └─────────────────┘        └───────────────┘
 ```
 
+CKD-Insight Application Link: https://ckd-insight-apzy6expiux7oewtinpnm3.streamlit.app
+
 ## Authors
 
 **Joseph Luper Tsenum**:
