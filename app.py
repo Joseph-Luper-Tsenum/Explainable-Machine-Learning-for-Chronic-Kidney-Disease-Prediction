@@ -40,7 +40,7 @@ MODEL_COLORS = {"Random Forest":"#55A868","XGBoost":"#C44E52",
 @st.cache_resource
 def load_models():
     """Load all artifacts once at startup."""
-    PROJECT_ROOT = Path(".")
+    PROJECT_ROOT = Path(__file__).resolve().parent
     MODEL_DIR = PROJECT_ROOT / "models"
     DATA_DIR  = PROJECT_ROOT / "data"
     
