@@ -856,6 +856,8 @@ UCI Chronic Kidney Disease dataset — **400 patients**, **24 features**, binary
 | SVM | 92.5% | 0.995 |
 | Decision Tree | 93.8% | 0.981 |
 
+GitHub Repository: https://github.com/Joseph-Luper-Tsenum/ckd-insight
+
 ### Authors
 **Joseph Luper Tsenum**:
 Ph.D. Researcher in Biomedical Engineering (Modeling & Biomedical Data Science Specialization), University of Florida.
