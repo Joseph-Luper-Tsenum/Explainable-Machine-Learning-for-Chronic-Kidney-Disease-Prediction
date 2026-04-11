@@ -1,8 +1,7 @@
 # ══════════════════════════════════════════════════════════════════════════════
 # CKD-Insight App 
 # Explainable Machine Learning for Chronic Kidney Disease Prediction with SHAP Explanations
-# BME6938 Medical AI · Project 1 · Group 6
-# Author: Joseph Luper Tsenum, Riley Bendure and Gopal Viraj Koundinya Vutukuru 
+# Author: Joseph Luper Tsenum, Gopal Viraj Koundinya Vutukuru, Riley Bendure, and Amadou Barrow 
 #
 # Usage:
 #   streamlit run app.py
@@ -323,7 +322,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("🩺 CKD-Insight App: CKD Prediction & Explainability")
-st.caption("BME6938 Medical AI · Project 1 · Group 6 · Joseph Luper Tsenum, Riley Bendure and Gopal Viraj Koundinya Vutukuru")
+st.caption("Authors · Joseph Luper Tsenum, Gopal Viraj Koundinya Vutukuru, Riley Bendure, and Amadou Barrow")
 
 tabs = st.tabs(["🔬 Patient Prediction", "📊 Model Performance",
                 "🌍 SHAP Global", "🔍 SHAP Local", "📈 SHAP Dependence",
@@ -830,7 +829,7 @@ with tabs[6]:
     st.markdown("""
 ### CKD-Insight App: Explainable Machine Learning for CKD Risk Prediction
 
-This CKD-Insight App was developed as part of **Project 1 for BME6938: Medical AI** at the University of Florida.
+This CKD-Insight App was developed at the University of Florida.
 It demonstrates an end-to-end machine learning pipeline for predicting Chronic Kidney Disease (CKD)
 and providing model interpretability using SHAP (SHapley Additive exPlanations).
 
@@ -864,13 +863,16 @@ Ph.D. Researcher in Biomedical Engineering (Modeling & Biomedical Data Science S
 Joseph develops Generative AI platforms for designing novel oligonucleotides and applies machine learning methods
 to biomedical data analysis and drug discovery.
 
+**Gopal Viraj Koundinya Vutukuru**:
+M.S. Student in Biomedical Engineering, University of Florida.
+Gopal Viraj is a first–year M.S. student in Biomedical Engineering at the University of Florida with a strong interest in biomaterials and regenerative medicine. He is open to pursuing both industry work and academic research in these areas in the future. His overall aim is to work in the healthcare industry to solve day‑to‑day diagnostic problems by applying the latest technologies in biomedical engineering.
+
 **Riley Bendure**:
 M.S. Researcher in Biomedical Engineering (Brain Signal Processing), University of Florida.
 Riley utilizes machine learning methods improving modulation of non-motor symptoms in Parkinson's for adaptive deep brain stimulation with previous experience in Cochlear implant temporal signal processing. His aim is to bridge gaps between patient perception and effective neuromodulation in implantable neurostimulators.
 
-**Gopal Viraj Koundinya Vutukuru**:
-M.S. Student in Biomedical Engineering, University of Florida.
-Gopal Viraj is a first‑year M.S. student in Biomedical Engineering at the University of Florida with a strong interest in biomaterials and regenerative medicine. He is open to pursuing both industry work and academic research in these areas in the future. His overall aim is to work in the healthcare industry to solve day‑to‑day diagnostic problems by applying the latest technologies in biomedical engineering.
+**Amadou Barrow**: 
+Ph.D. Researcher in Epidemiology (Infectious Disease and Data Science Specialization), University of Florida. Amadou develops causal inference AI-focused machine learning methods for infectious diseases and global health using population-based datasets such as DHS, EHR, GBD, AIDSInfo, etc, to provide evidence for intervention designing and improve health outcomes.
 
 ## Individual Contributions 
 
@@ -878,9 +880,11 @@ Each team member contributed to the preparation of the written report and the de
 
 1. **Joseph Luper Tsenum** – Responsible for writing the Abstract and coordinating the project, ensuring that the different components of the analysis were well integrated and consistent across all four phases of the work. 
 
-2. **Riley Bendure** – Responsible for writing the Introduction, providing background on chronic kidney disease (CKD) and motivating the importance of applying machine learning methods for early risk prediction. 
+2. **Gopal Viraj Koundinya Vutukuru** – Responsible for writing the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models. 
 
-3. **Gopal Viraj Koundinya Vutukuru** – Responsible for writing the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models. 
+3. **Riley Bendure** – Responsible for writing the Introduction, providing background on chronic kidney disease (CKD) and motivating the importance of applying machine learning methods for early risk prediction. 
+
+4. **Amadou Barrow – Responsible for statistical analysis and interpretation, contributing to the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models.
 
 ## Collaboration 
 
