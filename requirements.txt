@@ -1,6 +1,6 @@
 # ══════════════════════════════════════════════════════════════════════════════
 # CKD-Insight: Explainable ML for Chronic Kidney Disease Prediction With SHAP
-Author: Joseph Luper Tsenum, Gopal Viraj Koundinya Vutukuru, Riley Bendure, and Amadou Barrow
+# Author: Joseph Luper Tsenum, Gopal Viraj Koundinya Vutukuru, Riley Bendure, and Amadou Barrow
 # requirements.txt
 # ══════════════════════════════════════════════════════════════════════════════
 
