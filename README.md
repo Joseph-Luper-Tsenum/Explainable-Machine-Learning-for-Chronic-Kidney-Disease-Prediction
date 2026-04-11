@@ -186,6 +186,10 @@ Gopal Viraj is a first‑year M.S. student in Biomedical Engineering at the Univ
 M.S. Researcher in Biomedical Engineering (Brain Signal Processing), University of Florida.
 Riley utilizes machine learning methods improving modulation of non-motor symptoms in Parkinson's for adaptive deep brain stimulation with previous experience in Cochlear implant temporal signal processing. His aim is to bridge gaps between patient perception and effective neuromodulation in implantable neurostimulators.
 
+4. **Amadou Barrow**
+Ph.D. Researcher in Epidemiology (Infectious Disease and Data Science Specialization), University of Florida.
+Amadou develops causal inference AI-focused machine learning methods for infectious diseases and global health using population-based datasets such as DHS, EHR, GBD, AIDSInfo, etc, to provide evidence for intervention designing and improve health outcomes.
+
 ## Individual Contributions 
 
 Each team member contributed to the preparation of the written report and the development of the project deliverables. 
@@ -194,7 +198,9 @@ Each team member contributed to the preparation of the written report and the de
 
 2. **Gopal Viraj Koundinya Vutukuru** – Responsible for writing the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models.
 
-3. **Riley Bendure** – Responsible for writing the Introduction, providing background on chronic kidney disease (CKD) and motivating the importance of applying machine learning methods for early risk prediction. 
+3. **Riley Bendure** – Responsible for writing the Introduction, providing background on chronic kidney disease (CKD) and motivating the importance of applying machine learning methods for early risk prediction.
+   
+4. **Amadou Barrow** – Responsible for statistical analysis and interpretation, contributing to the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models.
 
 ## Collaboration 
 
