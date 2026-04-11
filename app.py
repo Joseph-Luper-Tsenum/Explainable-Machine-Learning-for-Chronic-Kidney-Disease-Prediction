@@ -2,7 +2,6 @@
 # CKD-Insight App 
 # Explainable Machine Learning for Chronic Kidney Disease Prediction with SHAP Explanations
 # Author: Joseph Luper Tsenum, Gopal Viraj Koundinya Vutukuru, Riley Bendure, and Amadou Barrow 
-#
 # Usage:
 #   streamlit run app.py
 #   (No separate backend process required)
