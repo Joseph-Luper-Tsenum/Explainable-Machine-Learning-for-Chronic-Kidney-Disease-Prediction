@@ -883,7 +883,7 @@ Each team member contributed to the preparation of the written report and the de
 
 3. **Riley Bendure** – Responsible for writing the Introduction, providing background on chronic kidney disease (CKD) and motivating the importance of applying machine learning methods for early risk prediction. 
 
-4. **Amadou Barrow – Responsible for statistical analysis and interpretation, contributing to the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models.
+4. **Amadou Barrow** – Responsible for statistical analysis and interpretation, contributing to the Literature Review, summarizing existing research on machine learning approaches for CKD prediction and identifying the motivation for explainable machine learning models.
 
 ## Collaboration 
 
