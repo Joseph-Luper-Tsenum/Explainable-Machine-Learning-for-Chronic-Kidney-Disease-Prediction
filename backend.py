@@ -1,8 +1,7 @@
 """
 ══════════════════════════════════════════════════════════════════════════════
 Phase IV — Python Backend (Flask) for CKD Prediction App
-BME6938 Medical AI · Project 1 · Group 6
-Author: Joseph Luper Tsenum, Riley Bendure and Gopal Viraj Koundinya Vutukuru
+Author: Joseph Luper Tsenum, Gopal Viraj Koundinya Vutukuru, Riley Bendure, and Amadou Barrow
 
 Usage:  python backend.py
 ══════════════════════════════════════════════════════════════════════════════
