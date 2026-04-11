@@ -186,7 +186,7 @@ Gopal Viraj is a first‑year M.S. student in Biomedical Engineering at the Univ
 M.S. Researcher in Biomedical Engineering (Brain Signal Processing), University of Florida.
 Riley utilizes machine learning methods improving modulation of non-motor symptoms in Parkinson's for adaptive deep brain stimulation with previous experience in Cochlear implant temporal signal processing. His aim is to bridge gaps between patient perception and effective neuromodulation in implantable neurostimulators.
 
-4. **Amadou Barrow**
+**Amadou Barrow**
 Ph.D. Researcher in Epidemiology (Infectious Disease and Data Science Specialization), University of Florida.
 Amadou develops causal inference AI-focused machine learning methods for infectious diseases and global health using population-based datasets such as DHS, EHR, GBD, AIDSInfo, etc, to provide evidence for intervention designing and improve health outcomes.
 
