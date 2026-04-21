@@ -214,7 +214,7 @@ This project reflects the type of collaborative environment commonly encountered
 
 ## Contact Us
 
-Joseph Luper Tsenum: tsenumjosephluper@gmail.com
+Joseph Luper Tsenum: josephtsenum@ufl.edu
 
 Address: Malachowsky Hall
 
